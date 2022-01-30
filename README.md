@@ -1,5 +1,7 @@
 <p align="center">
-  <img alt="GIF" src="https://media.giphy.com/media/9LQHvkbIzTSLe/giphy.gif" height="300"/>
+<a href="https://giphy.com/gifs/vs-designer-developer-9LQHvkbIzTSLe" target="_blank">
+    <img alt="GIF" src="https://media.giphy.com/media/9LQHvkbIzTSLe/giphy.gif" height="300"/>
+</a>
 </p>
 
 <h1 align="center">Hi there 👋  I'm Sebastián Rendón Arteaga</h1>
