@@ -1,4 +1,4 @@
-<img alt="GIF" src="https://github.com/manojuppala/manojuppala/blob/master/assets/code.gif?raw=true" />
+<img align="center" alt="GIF" src="https://github.com/manojuppala/manojuppala/blob/master/assets/code.gif?raw=true" width="450" height="250"/>
 
 # Hi there 👋  I'm Sebastián Rendón Arteaga
 
