@@ -4,6 +4,15 @@
 
 <h1 align="center">Hi there 👋  I'm Sebastián Rendón Arteaga</h1>
 
+- 🔭 I am currently studying systems engineering and I am working in an accounting software development start-up.
+- 🌱 I’m currently learning Flutter
+- 💬 Ask me about **MongoDB** **SQL Server** **AWS** **Angular** **DotNet** **HTML5**
+- 📫 How to reach me: serendona@unal.edu.co
+- 😄 Pronouns: _Rendón_
+```
+ - ⚡ Fact: Bikes + Code + Travel + Family = Life
+ ```
+
 ### ⚙️ GitHub Analytics
 
 <p align="center">
