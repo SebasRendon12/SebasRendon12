@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="GIF" src="https://github.com/manojuppala/manojuppala/blob/master/assets/code.gif?raw=true" width="400" height="250"/>
+  <img alt="GIF" src="https://media.giphy.com/media/9LQHvkbIzTSLe/giphy.gif" height="300"/>
 </p>
 
 <h1 align="center">Hi there 👋  I'm Sebastián Rendón Arteaga</h1>
@@ -7,6 +7,7 @@
 - 🔭 I am currently studying systems engineering and I am working in an accounting software development start-up.
 - 🌱 I’m currently learning Flutter
 - 💬 Ask me about **MongoDB** **SQL Server** **AWS** **Angular** **DotNet** **HTML5**
+- 🎨 I also like the design **Ps** **Ae** **Xd** **Ai**
 - 📫 How to reach me: serendona@unal.edu.co
 - 😄 Pronouns: _Rendón_
 ```
@@ -17,8 +18,8 @@
 
 <p align="center">
   <a href="https://github.com/SebasRendon12" target="_self">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SebasRendon12&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SebasRendon12&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SebasRendon12&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SebasRendon12&layout=compact&langs_count=8&theme=darcula"/>
   </a>
 </p>
 
