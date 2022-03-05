@@ -2,7 +2,7 @@
 <br>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/9LQHvkbIzTSLe/giphy.gif" height="300"/>
 
-<br><br>
+<br>
 - 🔭 I am currently studying systems engineering and I am working in an accounting software development start-up.
 - 🌱 I’m currently learning Flutter
 - 💬 Ask me about **MongoDB** **SQL Server** **AWS** **Angular** **DotNet** **HTML5**
