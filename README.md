@@ -1,11 +1,8 @@
-<p align="center">
-<a href="https://giphy.com/gifs/vs-designer-developer-9LQHvkbIzTSLe" target="_blank">
-    <img alt="GIF" src="https://media.giphy.com/media/9LQHvkbIzTSLe/giphy.gif" height="300"/>
-</a>
-</p>
-
 <h1 align="center">Hi there 👋  I'm Sebastián Rendón Arteaga</h1>
+<br>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/9LQHvkbIzTSLe/giphy.gif" height="300"/>
 
+<br><br>
 - 🔭 I am currently studying systems engineering and I am working in an accounting software development start-up.
 - 🌱 I’m currently learning Flutter
 - 💬 Ask me about **MongoDB** **SQL Server** **AWS** **Angular** **DotNet** **HTML5**
@@ -16,8 +13,8 @@
  - ⚡ Fact: Bikes + Code + Travel + Family = Life
  ```
 
+<br><br><br>
 ### 🏍 GitHub Analytics
-
 <p align="center">
   <a href="https://github.com/SebasRendon12" target="_self">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SebasRendon12&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
