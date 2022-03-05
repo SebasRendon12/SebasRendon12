@@ -14,7 +14,8 @@
  - ⚡ Fact: Bikes + Code + Travel + Family = Life
  ```
 
-<br><br><br>
+<br><br>
+
 ### 🏍 GitHub Analytics
 <p align="center">
   <a href="https://github.com/SebasRendon12" target="_self">
