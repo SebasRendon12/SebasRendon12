@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Flutter
 - 💬 Ask me about **MongoDB** **SQL Server** **AWS** **Angular** **DotNet** **HTML5**
 - 🎨 I also like the design **Ps** **Ae** **Xd** **Ai**
-- 📫 How to reach me: serendona@unal.edu.co
+- 📫 How to reach me: <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Sebastián Rendón Arteaga's LinkedIn Profile" height="15" width="15">
 - 😄 Pronouns: _Rendón_
 ```
  - ⚡ Fact: Bikes + Code + Travel + Family = Life
