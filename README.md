@@ -8,8 +8,9 @@
 - 🌱 I’m currently learning Flutter and improving in .Net
 - 💬 Ask me about **MongoDB** **SQL Server** **AWS** **Angular** **DotNet** **HTML5**
 - 🎨 I also like the design **Ps** **Ae** **Xd** **Ai**
-- 📫 How to reach me: <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Sebastián Rendón Arteaga's LinkedIn Profile" height="15" width="15">
-- 😄 Pronouns: _Rendón_
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/sebastián-rendón-arteaga/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Sebastián Rendón Arteaga's LinkedIn Profile" height="15" width="15">
+  </a>
 ```
  - ⚡ Fact: Bikes + Code + Travel + Family = Life
  ```
