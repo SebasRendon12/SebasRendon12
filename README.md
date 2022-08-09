@@ -4,8 +4,8 @@
 
 <br>
 
-- 🔭 I am currently studying systems engineering and I am working in an accounting software development start-up.
-- 🌱 I’m currently learning Flutter
+- 🔭 I am currently studying systems engineering and I am working in a leading global digital consultancy.
+- 🌱 I’m currently learning Flutter and improving in .Net
 - 💬 Ask me about **MongoDB** **SQL Server** **AWS** **Angular** **DotNet** **HTML5**
 - 🎨 I also like the design **Ps** **Ae** **Xd** **Ai**
 - 📫 How to reach me: <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Sebastián Rendón Arteaga's LinkedIn Profile" height="15" width="15">
