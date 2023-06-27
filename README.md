@@ -28,7 +28,7 @@
 <h2 align="center">You can reach me at</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sebastián-rendón-arteaga/" target="_blank">
+  <a href="https://www.linkedin.com/in/sebasrendon/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Sebastián Rendón Arteaga's LinkedIn Profile" height="30" width="30">
   </a>
   <a href="https://twitter.com/Sebas_rendon812" target="_blank">
