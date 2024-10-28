@@ -1,18 +1,18 @@
-<h1 align="center">Hi there 👋  I'm Sebastián Rendón Arteaga</h1>
+<h1 align="center">Hi there 👋  I'm Sebastian Rendon Arteaga</h1>
 <br>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/9LQHvkbIzTSLe/giphy.gif" height="300"/>
 
 <br>
 
-- 🔭 I am currently studying systems engineering and I am working in a leading global digital consultancy.
-- 🌱 .Net developer, learning Apigee, and improving in Angular
+- 🔭 I am a systems engineer and I am working in a leading global digital consultancy.
+- 🌱 .Net developer, learning Apigee, React, and improving in Angular
 - 💬 Ask me about **MongoDB** **SQL Server** **AWS** **Angular** **DotNet** **HTML5**
 - 🎨 I also like the design **Ps** **Ae** **Xd** **Ai**
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/sebasrendon/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Sebastián Rendón Arteaga's LinkedIn Profile" height="15" width="15">
   </a>
 ```
- - ⚡ Fact: Bikes + Code + Travel + Family = Life
+ - ⚡ Fact: Code + Travel + Family = Life
  ```
 
 <br><br>
